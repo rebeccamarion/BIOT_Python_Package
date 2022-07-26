@@ -1,0 +1,4 @@
+# PyPi
+dist/*
+BIOT.egg-info/*
+build/*
